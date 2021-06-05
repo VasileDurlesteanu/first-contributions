@@ -10641,3 +10641,4 @@ Marica Marian
 - [Guillaume Jobst](https://github.com/cgtoolbox)
 - [Masoud Bolhassani](https://github.com/msoodb)
 - [Dmitriy Bulygin](https://github.com/demetriusstorm)
+- [Vasile Durlesteanu](https://github.com/VasileDurlesteanu)
